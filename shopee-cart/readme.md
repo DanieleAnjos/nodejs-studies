@@ -18,12 +18,18 @@ Criar um carrinho de compras baseado no da Shopee, onde:
 
 1. **Clone o projeto:**
 ```bash
-git clone
+git clone https://github.com/DanieleAnjos/nodejs-studies.git
 ```
 
-2. **Execute o arquivo principal:**
+2. **Acesse a pasta do projeto:**
 ```bash
-node src\index.js
+cd nodejs-studies/shopee-cart
+
+```
+3. **Execute o arquivo principal:**
+```bash
+node src/index.js
+
 ```
 
 ---
